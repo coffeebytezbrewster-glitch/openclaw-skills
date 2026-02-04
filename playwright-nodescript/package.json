@@ -1,0 +1,9 @@
+{
+  "name": "playwright-nodescript",
+  "version": "1.0.0",
+  "description": "Browser automation with Playwright via NodeScript",
+  "keywords": ["playwright", "browser", "automation", "nodescript"],
+  "engines": {
+    "openclaw": ">=2026.1.0"
+  }
+}
