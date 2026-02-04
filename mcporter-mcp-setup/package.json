@@ -1,0 +1,9 @@
+{
+  "name": "mcporter-mcp-setup",
+  "version": "1.0.0",
+  "description": "Set up and manage MCP servers with MCPorter",
+  "keywords": ["mcp", "mcporter", "model-context-protocol", "ai", "tools"],
+  "engines": {
+    "openclaw": ">=2026.1.0"
+  }
+}
